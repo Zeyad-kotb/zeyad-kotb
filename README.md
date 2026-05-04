@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Zeyad Kotb</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Computer+Science+and+AI+Student;C%2B%2B+Developer;AI+and+Robotics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Computer+Science+and+AI+Student;AI+and+Robotics+Engineer" alt="Typing SVG" />
 </p>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Check+My+Projects+and+Repositories;Follow+To+Get+New+Updates&font=Fira%20Code&center=true&color=30F050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Check+My+Repositories;Follow+To+Get+New+Updates&font=Fira%20Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
 
