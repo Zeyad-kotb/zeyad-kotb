@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Check+Out+My+Projects+and+Repositories&font=Fira%20Code&center=true&color=30F050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Check+My+Projects+and+Repositories;Follow To Get New Updates&font=Fira%20Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
 
